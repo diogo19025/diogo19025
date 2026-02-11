@@ -2,7 +2,7 @@
 
 🎓 Bachelor's Degree in `Computer Science @ UFPB`
 
-💡 Apaixonado por tecnologia, inovação e programação
+💡 Passionate about technology, innovation, and coding/programming
 
 👁️ Computer Vision enthusiast
 
