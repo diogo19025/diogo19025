@@ -88,31 +88,8 @@
   <img src="https://img.shields.io/badge/MediaPipe-00A98F?style=for-the-badge&logo=google&logoColor=white"/>
 </div>
 
----
 
-## 🚀 Featured Projects
 
-### ⚖️ LawSense — `TypeScript · Llama 3.3 · Groq · REST API`
-A conversational legal assistant built for Brazilians with low digital literacy. Designed a REST API and a structured prompting system, then ran a **systematic Gemini vs. Llama 3.3 (Groq) evaluation** on quality and latency — and migrated the production provider based on the results.
-
-### 🤟 LibrAI — `Python · MediaPipe · TensorFlow · Scikit-learn`
-Real-time **LIBRAS (Brazilian Sign Language)** recognition combining a Random Forest for static signs and a **GRU** for dynamic gestures, with a low-latency inference pipeline. Deployed in an educational setting, supporting dozens of students with feedback driving each iteration.
-
-### 💸 Finance API — `FastAPI · SQLAlchemy · Pydantic · SQLite`
-A clean, testable REST API with full CRUD, **Pydantic** validation, **SQLAlchemy** persistence, and endpoints for filtering and financial summaries. Built with a focus on readable, well-documented code.
-
-> 📌 Pinned repositories below have the full details.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=diogo19025&show_icons=true&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogo19025&layout=compact&hide_border=true&langs_count=8" />
-</p>
-
----
 
 ## 📫 Get in touch
 
