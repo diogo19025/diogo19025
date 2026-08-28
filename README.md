@@ -8,6 +8,6 @@ i like owning things from the first commit to the deploy, and code that actually
 
 mostly working with typescript, python, javascript, react, next.js, postgres and aws, but most comfortable when i'm learning something new
 
-see what i've built at [diogosoaresb.com](https://diogosoaresb.com)
+see what i've built at [diogosoaresb.com](https://diogosoaresb.com) (portfolio)
 
 reach me at [diogoscarvalho19@gmail.com](mailto:diogoscarvalho19@gmail.com) or [linkedin](https://www.linkedin.com/in/diogos19/)
