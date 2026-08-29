@@ -10,4 +10,4 @@ mostly working with typescript, python, javascript, react, next.js, postgres and
 
 see what i've built at [diogosoaresb.com](https://diogosoaresb.com) (portfolio)
 
-reach me at [diogoscarvalho19@gmail.com](mailto:diogoscarvalho19@gmail.com) or [linkedin](https://www.linkedin.com/in/diogos19/)
+reach me at [diogoscarvalho19@gmail.com](mailto:diogoscarvalho19@gmail.com) or [linkedin](https://www.linkedin.com/in/diogos19/).
