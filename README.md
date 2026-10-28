@@ -2,7 +2,7 @@
 
 computer science student @ Universidade Federal da Paraíba (UFPB)
 
-i build full-stack stuff in typescript and put ai agents into production. currently a sde intern at Amazon,
+i build full-stack stuff in typescript and put ai agents into production.
 
 i like owning things from the first commit to the deploy, and code that actually survives production
 
