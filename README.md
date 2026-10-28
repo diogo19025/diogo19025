@@ -1,12 +1,14 @@
 # Diogo Soares
 
+Incoming SDE Intern @ Amazon
 computer science student @ Universidade Federal da Paraíba (UFPB)
 
-i build full-stack stuff in typescript and put ai agents into production.
+
+mostly into building useful stuff and figuring things out along the way.
 
 i like owning things from the first commit to the deploy, and code that actually survives production
 
-mostly working with typescript, java, python, react, next.js, postgres and aws, but most comfortable when i'm learning something new
+mostly working with typescript, python, java, and whatever else gets the job done.
 
 see what i've built at [diogosoaresb.com](https://diogosoaresb.com) (portfolio)
 
