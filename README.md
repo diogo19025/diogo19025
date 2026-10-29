@@ -1,6 +1,7 @@
 # Diogo Soares
 
 incoming SDE intern @ Amazon
+
 computer science student @ Universidade Federal da Paraíba (UFPB)
 
 
